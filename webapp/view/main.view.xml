@@ -9,6 +9,7 @@
 	 <Image id="caroImg4" src="images/4.png" width="68%" height="68%" />   
      <Image id="caroImgqa" src=" https://media0.giphy.com/media/6pJNYBYSMFod2/giphy.gif" width="60%" height="60%" />
      <Image id="caroImglast" src="https://www.mandatory.com/assets/uploads/gallery/25-gifs-that-prove-jim-carrey-was-at-his-rawest-in-the-mask/tenor-4.gif" width="50%" height="55%" />
+     
 	</pages>
 </Carousel>
 </mvc:View>
