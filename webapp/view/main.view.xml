@@ -1,0 +1,14 @@
+<mvc:View controllerName="tryme.controller.main"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+ <Carousel loop="true" pageChanged="caroChanged" id="caro">
+  <pages>
+  	 <Image id="caroImg1" src="images/1.gif" width="68%" height="68%" />
+     <Image id="caroImg2" src="images/2.png" width="68%" height="68%" />
+		  <Image id="caroImg3" src="https://www.mandatory.com/assets/uploads/gallery/25-gifs-that-prove-jim-carrey-was-at-his-rawest-in-the-mask/source_1.gif" width="60%" height="60%" />
+	    <Image id="caroImg4" src="https://www.mandatory.com/assets/uploads/gallery/25-gifs-that-prove-jim-carrey-was-at-his-rawest-in-the-mask/tenor-4.gif" />
+      
+      
+	</pages>
+</Carousel>
+</mvc:View>
