@@ -1,13 +1,19 @@
 <mvc:View controllerName="tryme.controller.main"
     xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
     xmlns="sap.m">
- <Carousel loop="true" pageChanged="caroChanged" id="caro">
+ <Carousel loop="true" pageChanged="caroChanged" id="caro" showPageIndicator="false">
   <pages>
   	 <Image id="caroImg1" src="images/1.gif" width="60%" height="68%" />
      <Image id="caroImg2" src="images/2.png" width="60%" height="68%" />
 	 <Image id="caroImg3" src="https://www.mandatory.com/assets/uploads/gallery/25-gifs-that-prove-jim-carrey-was-at-his-rawest-in-the-mask/source_1.gif" width="50%" height="60%" />
-	 <Image id="caroImg4" src="images/4.png" width="68%" height="68%" />   
+     <Image id="caroImg4" src="images/3.PNG" width="75%" height="75%" />
+	 <Image id="caroImg5" src="images/4.PNG" width="75%" height="75%" />   
      <Image id="caroImgqa" src=" https://media0.giphy.com/media/6pJNYBYSMFod2/giphy.gif" width="60%" height="60%" />
+     <Image id="caroImg6" src="images/tryme1.PNG" width="68%" height="68%" />  
+     <Image id="caroImg7" src="images/fillme.png" width="68%" height="68%" />
+     <Image id="caroImgxxx" src="images/Q.png" width="68%" height="68%" />  
+     <Image id="caroImg8" src="images/last.PNG" width="75%" height="75%" />   
+     <Image id="caroImg9" src="images/tryme2.PNG" width="68%" height="68%" />   
      <Image id="caroImglast" src="https://www.mandatory.com/assets/uploads/gallery/25-gifs-that-prove-jim-carrey-was-at-his-rawest-in-the-mask/tenor-4.gif" width="50%" height="55%" />
      
 	</pages>
