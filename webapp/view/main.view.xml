@@ -16,6 +16,7 @@
      <Image id="caroImg8" src="images/last.PNG" width="75%" height="75%" />   
      <Image id="caroImg9" src="images/tryme2.PNG" width="68%" height="68%" />   
      <Image id="caroImglast" src="https://www.mandatory.com/assets/uploads/gallery/25-gifs-that-prove-jim-carrey-was-at-his-rawest-in-the-mask/tenor-4.gif" width="50%" height="55%" />
+     <Image id="carojul" src="http://cdn.simplesite.com/i/5b/15/286823009757959515/i286823014334183505._szw480h1280_.jpg" />
      
 	</pages>
 </Carousel>
